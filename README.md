@@ -1,4 +1,4 @@
-# 📊 Madhav E-Commerce Sales Dashboard
+# 📊 Madhav E-Commerce Sales Analysis
 
 An interactive **Power BI dashboard** built to analyze e-commerce sales performance across different states, customers, categories, payment methods, and time periods. The dashboard enables businesses to monitor key KPIs, identify profitable segments, and make data-driven decisions to improve sales and profitability.
 
